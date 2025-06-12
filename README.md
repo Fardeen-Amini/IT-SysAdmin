@@ -20,23 +20,23 @@ My goal was to create a fully functional Domain Controller, connect real PCs to 
 
 ## 🛠️ Setup Steps
 
-### 1. Create Hyper-V VM
+### 1. Created Hyper-V VM
 - Installed **Windows Server 2022**
 - Assigned External Switch to VM for LAN access
 
-### 2. Configure Server Network
+### 2. Configured Server Network
 - Static IP: `10.4.0.30`
 - DNS: Server points to itself (10.4.0.30)
 - Alternate DNS: `8.8.8.8`
 
-### 3. Install Server Roles
+### 3. Installed Server Roles
 - Installed **Active Directory Domain Services**
 - Installed **DNS Server**
 
-### 4. Promote to Domain Controller
+### 4. Promoted to Domain Controller
 - Created domain: `fardeen.local`
 
-### 5. Configure Real Office PCs
+### 5. Configured Real Office PCs
 - Set static IPs (no DHCP in office)
 - Set DNS:
   - Preferred: `10.4.0.30` (server)
