@@ -1,7 +1,9 @@
 # IT-SysAdmin Project
 # Windows Server 2022 Domain Controller Lab
 
-This project simulates a real-world SysAdmin environment using Hyper-V, Windows Server 2022, and real office computers. The goal was to create a working Domain Controller, join physical PCs to the domain, and manage users via Active Directory.
+In this project, I simulated a real-world System Administrator environment using Hyper-V, Windows Server 2022, and physical office computers. 
+My goal was to create a fully functional Domain Controller, connect real PCs to the domain, and manage users through Active Directory.
+
 
 ---
 
