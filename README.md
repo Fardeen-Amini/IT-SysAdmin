@@ -12,7 +12,7 @@ This project simulates a real-world SysAdmin environment using Hyper-V, Windows 
 - **Default Gateway:** `10.4.0.1`
 - **DNS (on Server):** 10.4.0.30
 - **Alternate DNS (on PCs):** 8.8.8.8
-- **Switch Type:** Hyper-V External Switch
+- **Switch Type:** Hyper-V External Switch (A Hyper-V External Switch connects my VMs to the physical network through adapter)
 
 ---
 
