@@ -51,8 +51,6 @@ My goal was to create a fully functional **Domain Controller**, connect real PCs
 - I logged into a physical PC using: `FAR\testuser`  
 - The login was successful; policies were applied, and I could manage the PC through the domain controller
 
----
-
 ## 📷 Screenshots
 
 ### 🔧 Server IP Setup
@@ -63,11 +61,8 @@ My goal was to create a fully functional **Domain Controller**, connect real PCs
 
 ### 👤 Domain User Creation
 - `Screenshots/ad-users.png`: Domain user creation
-- `Screenshots/domain-joined.png`: PC joined to domain  
-- `Screenshots/ad-users.png`: Domain user creation
 
 ---
-
 ## 📌 Notes
 
 - I didn’t use a DHCP server; all IPs were manually configured  
