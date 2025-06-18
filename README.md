@@ -55,14 +55,14 @@ My goal was to create a fully functional **Domain Controller**, connect real PCs
 
 ## 📷 Screenshots
 
-## 📷 Screenshots
-
 ### 🔧 Server IP Setup
-![Server IP Configuration](Screenshots/ipconfig-server.png)
+![Server IP Configuration](Screenshots/ipconfig-server.jpg)
 
+### 🖥️ PC Joined to Domain
 - `Screenshots/domain-joined.png`: PC joined to domain  
+
+### 👤 Domain User Creation
 - `Screenshots/ad-users.png`: Domain user creation
- 
 - `Screenshots/domain-joined.png`: PC joined to domain  
 - `Screenshots/ad-users.png`: Domain user creation
 
