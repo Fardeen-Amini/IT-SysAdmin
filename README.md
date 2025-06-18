@@ -54,8 +54,7 @@ My goal was to create a fully functional **Domain Controller**, connect real PCs
 ## 📷 Screenshots
 
 ### 🔧 Server IP Setup
-![Server IP Configuration](https://github.com/Fardeen-Amini/IT-SysAdmin/blob/main/Screenshots/ipconfig-server.jpg?raw=true)
-
+![Server IP Configuration](https://github.com/Fardeen-Amini/IT-SysAdmin/blob/main/ipconfig-server.jpg?raw=true)
 
 ### 🖥️ PC Joined to Domain
 - `Screenshots/domain-joined.png`: PC joined to domain  
